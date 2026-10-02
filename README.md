@@ -6,23 +6,23 @@ The application provides an interactive memorization experience where users can 
 
 ## ✨ Features
 
-* 📚 Browse and select Quran Surahs.
-* 🎯 Select a specific range of verses for memorization.
-* 🔁 Customize the number of repetitions during a memorization session.
-* 🔊 Listen to Quran verse recitations.
-* 📖 Display the current Quran verse during the memorization session.
-* 📊 Track memorization progress throughout each session.
-* 💾 Save and resume memorization progress.
-* 📝 View previously completed memorization sessions.
-* 🏆 Create daily memorization challenges based on:
+*  Browse and select Quran Surahs.
+*  Select a specific range of verses for memorization.
+*  Customize the number of repetitions during a memorization session.
+*  Listen to Quran verse recitations.
+*  Display the current Quran verse during the memorization session.
+*  Track memorization progress throughout each session.
+*  Save and resume memorization progress.
+*  View previously completed memorization sessions.
+*  Create daily memorization challenges based on:
 
   * Number of repetitions.
   * Number of verses.
-* 📈 Track progress toward daily challenges.
-* 🌙 Support for light and dark themes.
-* ⚙️ Application settings for a more personalized experience.
+*  Track progress toward daily challenges.
+*  Support for light and dark themes.
+*  Application settings for a more personalized experience.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Language & Platform
 
@@ -141,7 +141,7 @@ git clone https://github.com/l7unx/Project-Quran-Hifz-App.git
 
 5. Run the application using an Android emulator or a physical Android device.
 
-## 🎓 Academic Project
+##  Academic Project
 
 **Al-Hafiz Al-Saghir** was developed as a team project for the **Mobile Application Development** course.
 
@@ -155,7 +155,7 @@ The application was developed collaboratively as a team project.
 
 My main contributions to the project included:
 
-* 🎨 Designing and implementing parts of the application's **user interface**.
-* 🏆 Developing the **Daily Challenge feature**, allowing users to set memorization goals and track their progress.
-* 🤝 Contributing to and assisting with various parts of the application throughout the development process.
+* Designing and implementing parts of the application's **user interface**.
+* Developing the **Daily Challenge feature**, allowing users to set memorization goals and track their progress.
+* Contributing to and assisting with various parts of the application throughout the development process.
 
