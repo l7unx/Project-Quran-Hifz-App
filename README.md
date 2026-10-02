@@ -159,4 +159,3 @@ My main contributions to the project included:
 * 🏆 Developing the **Daily Challenge feature**, allowing users to set memorization goals and track their progress.
 * 🤝 Contributing to and assisting with various parts of the application throughout the development process.
 
-This repository represents my contribution to the collaborative development of the project.
