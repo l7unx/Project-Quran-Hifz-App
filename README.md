@@ -4,6 +4,17 @@
 
 The application provides an interactive memorization experience where users can select a Surah and a range of verses, choose the number of repetitions, listen to recitations, view the current verse, and track their memorization progress.
 
+## 📸 Screenshots
+
+### Home Screen
+![Al-Hafiz Al-Saghir Home Screen](Home-screen.png)
+
+### Challenge Screen
+![Al-Hafiz Al-Saghir Challenge](challenge-screen.png)
+
+### Achievements Screen
+![Al-Hafiz Al-Saghir Achievements](achievements-screen.png)
+
 ## ✨ Features
 
 *  Browse and select Quran Surahs.
